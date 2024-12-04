@@ -10,4 +10,4 @@ Un blog de practica
 * Trucos muy locos del profesor 
 * Las personalidades varias de Freddy
 
-Y como recordatorio: **Este readme.md es charlando**. Diseñado como ejemplo. Mejor escucha esta [Cancion](https://www.youtube.com/watch?v=t-WI9pQ4vDQ "Cancion")
+Y como recordatorio: **Este readme.md es charlando**. Diseñado como ejemplo. Mejor escucha esta [Cancion](https://www.youtube.com/watch?v=t-WI9pQ4vDQ "Cancion") tambien puedes ver mi [Blog inicial](https://nidelgadov.github.io/hyperblog/blogpost.html "Blog Inicial")
